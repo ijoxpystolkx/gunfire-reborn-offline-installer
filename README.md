@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Gunfire Reborn is a level-based adventure game featuring FPS, Roguelite and RPG. Players can control heroes with various abilities to experience diverse Build gameplay, use various weapons to explore procedurally-generated levels. You can play the game alone, or join 4-player coop.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core i5-6400 / AMD FX-8320 / Rec: Intel Core i5-7500 / AMD Ryzen 5 1400 | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: GTX 960 / R9 280 / Rec: GTX 1060 / R9 390 | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 4 GB available space | 4 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7 | Windows 7 |
 
 ---
 
